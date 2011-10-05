@@ -13,7 +13,7 @@ namespace DP.Logger.Configuration
         {
         }
 
-
+        //
         [ConfigurationProperty("enabled", DefaultValue = "true", IsRequired = false)]
         public bool Enabled
         {
