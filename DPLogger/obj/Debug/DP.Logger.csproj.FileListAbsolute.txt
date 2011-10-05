@@ -1,0 +1,5 @@
+E:\Projects\Dot Net Framework\Design Patterns\DPLogger\bin\Debug\DPLogger.dll
+E:\Projects\Dot Net Framework\Design Patterns\DPLogger\bin\Debug\DPLogger.pdb
+E:\Projects\Dot Net Framework\Design Patterns\DPLogger\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\Dot Net Framework\Design Patterns\DPLogger\obj\Debug\DPLogger.dll
+E:\Projects\Dot Net Framework\Design Patterns\DPLogger\obj\Debug\DPLogger.pdb

@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DP.Logger.DB">
+    <Position X="7" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAACAAFACAAASAAEAQAAAAAAAAAA=</HashCode>
+      <FileName>Source\Concrete Classes\DB\DB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DP.Logger.LogWriter" BaseTypeListCollapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAIAAAAAAAAAAAAAACAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Source\Concrete Classes\Log Writer\LogWriter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="DP.Logger.LogWriterBuilder">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAABAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Source\Concrete Classes\Log Writer\LogWriterBuilder.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DP.Logger.LogWriterFactory">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Source\Concrete Classes\Log Writer\LogWriterFactory.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DP.Logger.Base.AbstractLogger">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAABAAAAACAAAAAAAAAAgAAAAAAAAgCAAAABA=</HashCode>
+      <FileName>Source\Base\AbstractLogger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DP.Logger.Base.DatabaseLogger">
+    <Position X="3" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAgAAAAAAAAgAACAABA=</HashCode>
+      <FileName>Source\Concrete Classes\Logger\DatabaseLogger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DP.Logger.Base.FileStreamLogger">
+    <Position X="0.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAABAAAAAAAgCAAAAAAAgAAAAABA=</HashCode>
+      <FileName>Source\Concrete Classes\Logger\FileStreamLogger.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DP.Logger.Configuration.DatabaseLoggerElement">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Source\Configuration\DatabaseLoggerElement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DP.Logger.Configuration.DPLoggerSection">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAABAAAIAAAABAAgAAAABAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Source\Configuration\DPLoggerSection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DP.Logger.Configuration.FileLoggerElement">
+    <Position X="8.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAIIAAAAAAAAAAAAAAAAAAgAAAABAAAA=</HashCode>
+      <FileName>Source\Configuration\FileLoggerElement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="DP.Logger.Base.ILogWriter">
+    <Position X="5.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Source\Base\ILogWriter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="DP.Logger.LogType">
+    <Position X="5.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAEAAACA=</HashCode>
+      <FileName>Source\Enumerators\eLogType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
